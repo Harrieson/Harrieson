@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harrie Mburu</h1>
 <h3 align="center">A passionate Telephony, Backend Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harrieson" alt="harrieson" /></a> </p>
-
 - 🔭 I’m currently working on **talkdial CpaaS**
 
 - 🌱 I’m currently learning **Phoenix Framework, Kafka,**
